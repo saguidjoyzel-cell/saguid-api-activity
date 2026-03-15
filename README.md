@@ -1,8 +1,8 @@
 # RESTful API Activity - Joyzel H. Saguid
 # Best Practices Implementation
 1. Environment Variables
-Why did we put BASE_URI in .env instead of hardcoding it?
-Answer: To keep config secure and flexible across environments.
+**Why did we put BASE_URI in .env instead of hardcoding it?**
+Answer: We utilize .env to allow configuration alterations without modifying the code.
 
 2. Resource Modeling
 Why did we use plural nouns (e.g., /dishes) for our routes?
