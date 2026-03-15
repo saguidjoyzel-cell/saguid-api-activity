@@ -1,4 +1,4 @@
-
+#
 # RESTful API Activity – Joyzel H. Saguid
 ## Best Practices Implementation
 **1. Environment Variables**
@@ -25,4 +25,4 @@ Answer: The issuance of a 404 status code is crucial since it unequivocally sign
 
 **4. Testing**
 
-Successful GET request to /api/v1/dishes:
+Successful GET request to /api/v1/dishes :
